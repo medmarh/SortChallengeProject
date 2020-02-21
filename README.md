@@ -68,8 +68,8 @@ unique value appears.
 - For example, if the list [ 24, 12, 8, 12, 19, 24 ] is supplied, the number 4 is
 returned.
 
-public interface SortChallenge {
-    public int[] simpleSort(int[] list, boolean ascending);
-    public void printSortedFrequency(int[] list);
-    public int numberOfUniqueValues(int[] list);
-}
+public interface SortChallenge {<br/>
+    public int[] simpleSort(int[] list, boolean ascending);<br/>
+    public void printSortedFrequency(int[] list);<br/>
+    public int numberOfUniqueValues(int[] list);<br/>
+}<br/>
