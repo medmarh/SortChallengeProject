@@ -9,6 +9,14 @@
   - Change arrays data as you want by going to class App.Application.java.<br/>
   LINES :<br/>
     11, 31 or 35<br/>
+    
+  - I used three different lists. One list for each method.<br/>
+   * ascending and descending sorting :<br/>
+     {0,0,2,0,5,9,3,55,2,12,0,11,1,2,5,6}<br/>
+   * printSortedFrequency <br/>
+     {1,2,5,3,0,0,0,2,5,11,12,55,66,32,12,1}<br/>
+   * numberOfUniqueValues<br/>
+     {1,1,22,2,0,0,0,5,0,3,22,55,1,2,5,7,8,9,6,3}<br/>    
   
 # Result of running the app :
   ******************* simpleSort ***************** <br/>
