@@ -39,7 +39,7 @@
 11<br/>
 
 
-# Exercise
+# Quiz
 
 Application specifications
 Create an application that uses a class that implements the provided interface. There are three
